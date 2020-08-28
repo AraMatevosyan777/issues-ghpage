@@ -1,6 +1,6 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import { Layout } from 'antd';
 import store from './redux/store';
 import AddIssueDrawer from './Modals/AddIssueDrawer';

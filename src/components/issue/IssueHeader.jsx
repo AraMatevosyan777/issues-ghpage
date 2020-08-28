@@ -12,7 +12,7 @@ const IssueHeader = ({ drawerIsShow, onDelete }) => {
   return (
     <PageHeader
       className="site-page-header"
-      onBack={() => history.push('/issues')}
+      onBack={() => history.goBack()}
       title="Issue"
       extra={[
         <Popconfirm

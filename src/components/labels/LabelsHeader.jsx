@@ -9,7 +9,7 @@ const LabelsHeader = ({ setVisible }) => {
   return (
     <PageHeader
       className="site-page-header"
-      onBack={() => history.push('/issues')}
+      onBack={() => history.goBack()}
       title="Labels"
       extra={[
         <Button key={1} onClick={setVisible} type="primary" size="large">

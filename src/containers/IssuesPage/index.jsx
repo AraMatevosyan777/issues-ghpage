@@ -21,6 +21,7 @@ class IssuesPage extends Component {
     this.props.getIssues(label);
   };
   componentDidMount() {
+    debugger;
     this.refreshIssues();
     this.props.error && this.openNotification();
   }
@@ -30,6 +31,7 @@ class IssuesPage extends Component {
       prevProps.match.params.label &&
       this.props.match.params.label === undefined
     ) {
+      debugger;
       this.refreshIssues();
     }
   }
