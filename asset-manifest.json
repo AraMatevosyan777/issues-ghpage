@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/issues-ghpage/static/css/main.4b9f3a28.chunk.css",
+    "main.js": "/issues-ghpage/static/js/main.990ec52a.chunk.js",
+    "main.js.map": "/issues-ghpage/static/js/main.990ec52a.chunk.js.map",
+    "runtime-main.js": "/issues-ghpage/static/js/runtime-main.3d4205bf.js",
+    "runtime-main.js.map": "/issues-ghpage/static/js/runtime-main.3d4205bf.js.map",
+    "static/css/2.04ff9426.chunk.css": "/issues-ghpage/static/css/2.04ff9426.chunk.css",
+    "static/js/2.402fc419.chunk.js": "/issues-ghpage/static/js/2.402fc419.chunk.js",
+    "static/js/2.402fc419.chunk.js.map": "/issues-ghpage/static/js/2.402fc419.chunk.js.map",
+    "index.html": "/issues-ghpage/index.html",
+    "precache-manifest.169cdd4a5bef5097f95222d85ce94fe4.js": "/issues-ghpage/precache-manifest.169cdd4a5bef5097f95222d85ce94fe4.js",
+    "service-worker.js": "/issues-ghpage/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/issues-ghpage/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.4b9f3a28.chunk.css.map": "/issues-ghpage/static/css/main.4b9f3a28.chunk.css.map",
+    "static/js/2.402fc419.chunk.js.LICENSE.txt": "/issues-ghpage/static/js/2.402fc419.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d4205bf.js",
+    "static/css/2.04ff9426.chunk.css",
+    "static/js/2.402fc419.chunk.js",
+    "static/css/main.4b9f3a28.chunk.css",
+    "static/js/main.990ec52a.chunk.js"
+  ]
+}
